@@ -11,6 +11,8 @@ public class Lion extends Animals {
 		super(name,color,age);
 	}
 	
+//comment
+	
    //methods
 	public void findLionHabitat() {
 		this.habitat = findHabitat(super.getName());
